@@ -14,7 +14,7 @@ A class or module should have only one responsibility, meaning it should have on
 Software entities (classes, modules, functions) should be open for extension but closed for modification.  
 > **Why?** You can add new functionality without altering existing code, reducing the risk of introducing bugs.
 
----
+---  
 
 ## **3. Liskov Substitution Principle (LSP)**
 Subtypes must be substitutable for their base types without affecting the correctness of the program.  
