@@ -45,8 +45,6 @@ const circle = new Circle();
 const shapeCalculator = new ShapeCalculator(triangle);
 const shapeCalculator2 = new ShapeCalculator(circle);
 
-console.log(shapeCalculator.calculateArea())
-console.log(shapeCalculator2.calculateArea())
 
 enum UserType {
   REGULAR = 'regular',
